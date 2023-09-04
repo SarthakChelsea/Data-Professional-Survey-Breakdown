@@ -50,4 +50,4 @@ We welcome feedback and contributions from the community to improve this Power B
 
 Enjoy exploring the Data Professional Breakdown Power BI Dashboard!
 
-![Powered by Power BI](power_bi_logo.png)
+![Powered by Power BI](https://logohistory.net/wp-content/uploads/2023/05/Power-BI-Symbol.png)
