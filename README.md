@@ -36,13 +36,9 @@ To run this Power BI Dashboard, you need:
 
 ## Credits
 
-- **Project Creator**: [Your Name]
-- **Data Collection**: [Data Sources and Contributors]
-- **Contact**: [Your Contact Information]
+- **Project Creator**: Sarthak Mahapatra(Reference taken Alex Freberg Videos)
+- **Data Collection**: Alex Freberg
 
-## License
-
-This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute the dashboard as long as you provide proper attribution and adhere to the terms of the license.
 
 ## Feedback and Contributions
 
